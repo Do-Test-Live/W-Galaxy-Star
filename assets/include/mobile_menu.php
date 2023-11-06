@@ -1,4 +1,4 @@
-<div class="mobile-header mobile-header-4 d-block d-lg-none ">
+<div class="mobile-header mobile-header-4 d-block d-lg-none d-md-none">
     <div class="container-fluid">
         <div class="col-12">
             <div class="mobile-header-elements">
@@ -6,16 +6,16 @@
                     <a href="index.php"><img src="assets/img/new/logo.png" alt="" style="width: 80%"></a>
                 </div>
                 <div class="mobile-nav-icon">
-                    <i class="fa-solid fa-bars" style="color: white;"></i>
+                    <i class="fa-solid fa-bars" style="color: #212529;"></i>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="mobile-sidebar d-block d-lg-none">
+<div class="mobile-sidebar d-block d-lg-none  ">
     <div class="menu-logo">
-        <a href="#"><img src="assets/img/new/logo_black.png" alt=""></a>
+        <a href="#"><img src="assets/img/new/logo.png" alt=""></a>
     </div>
     <div class="menu-close">
         <i class="fa-solid fa-xmark"></i>

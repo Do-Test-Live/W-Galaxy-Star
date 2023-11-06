@@ -571,6 +571,12 @@ button.button3 {
     line-height: 42px;
   }
 }
+@media screen and (max-width: 992px) {
+  .hadding2  {
+ display: none;
+  }
+}
+
 
 .hadding2.main-hadding3 {
   padding-top: 75px;
@@ -749,7 +755,7 @@ button.button3 {
 =============================*/
 
 .hadding1 h1 {
-  background: linear-gradient(to right, #B68F5D, #e7bc7b);
+  background: linear-gradient(to right, #1349a8, #0964a3);
   -webkit-background-clip: text; /* For webkit browsers */
   background-clip: text;
   color: transparent;
@@ -1002,7 +1008,7 @@ padding-bottom: 16px;
 
 @media screen and (max-width: 769px) {
   .hadding1 h1 {
-    font-size: 32px;
+    font-size: 30px;
     line-height: 40px;
   }
 }

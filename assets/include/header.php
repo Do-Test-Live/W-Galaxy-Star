@@ -13,7 +13,7 @@
 
                         <div class="main-menu-ex main-menu-ex1 m-auto">
                             <ul class="font-f-2">
-                                <li><a href="index.php">HOME</a>
+                                <li ><a href="index.php">HOME</a>
                                 </li>
                                 <li><a href="services.php">ABOUT US</a>
                                 </li>
@@ -23,7 +23,6 @@
                                 </li>
                             </ul>
                         </div>
-
 
                         <div class="mobile-menu-bar d-lg-none">
                             <i class="fas fa-bars"></i>

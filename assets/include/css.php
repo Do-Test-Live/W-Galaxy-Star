@@ -1,5 +1,5 @@
 <!--=====FAV ICON=======-->
-<link rel="shortcut icon" href="assets/img/new/favicon.png"/>
+<link rel="shortcut icon" href="assets/img/new/img.png"/>
 
 <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
 <link rel="stylesheet" href="assets/css/font-awesome-pro.css"/>

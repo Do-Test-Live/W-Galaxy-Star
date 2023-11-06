@@ -64,7 +64,7 @@ body, html {
   height: 50px;
 }
 .header-area {
-  background: #000;
+  background: #ffffff;
   position: absolute;
   z-index: 22;
   width: 100%;
@@ -1851,7 +1851,7 @@ line-height: 48px; /* 120% */
 }
 
 .counter-hadding p {
-color: #d3a96f;
+color: #1349a8;
 font-size: 18px;
 font-family: Inter;
 font-style: normal;
@@ -1870,7 +1870,7 @@ padding-top: 16px
 
 @media screen and (max-width: 769px) {
   .counter-hadding h1 {
-    font-size: 32px;
+    font-size: 19px;
     line-height: 40px;
   }
 
